@@ -1,0 +1,56 @@
+@font-face{
+    src: url("Square\ Space.ttf");
+    font-family: space;
+}
+
+body {
+    margin: 0;
+    background-color:#e5dbd3;
+    color:#e5dbd3;
+    text-align: center;
+    
+    font-family: space;
+}
+#logo {
+    width: 100px;
+    margin-top: 10px;
+}
+#title {
+    text-shadow: 0px 0px 5px rgb(0, 0, 0);
+}
+
+#hero {
+    background-image: url("https://media.giphy.com/media/D35fOVm9gSQ91icJeR/giphy-downsized-large.gif");
+    background-size: cover;
+    padding:10px 0 200px 0 ;
+}
+
+.button{
+    padding: 4px 14px;
+    border-radius: 10px;
+    margin-right: 20px;
+    font-size: large;
+    font-family: space;
+    background: #e5dbd3;
+    color: #404249;
+    font-weight: 800;
+    
+}
+
+
+
+.underline {
+    border-bottom: 4px solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
